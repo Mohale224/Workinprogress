@@ -1,0 +1,1558 @@
+.agri-vista-farms-landing-page .agrivista-farms {
+    margin: 6px 17px 8px 0;
+    display: inline-block;
+    width: 222px;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 28px;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .home {
+    margin: 11px 0 14px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .about-us {
+    margin: 11px 0 14px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .pages {
+    margin: 11px 0 14px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page {
+    background: #F0F0F0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .group {
+    margin-bottom: 28px;
+    width: 80px;
+    height: 80px;
+  }
+  .agri-vista-farms-landing-page .icon {
+    margin-bottom: 28px;
+    display: flex;
+    width: 80px;
+    height: 80px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-1 {
+    width: 80px;
+    height: 80px;
+  }
+  .agri-vista-farms-landing-page .option-3 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .option-4 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .container {
+    display: flex;
+    flex-direction: row;
+    width: 316px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .cabbage {
+    box-shadow: 0px 19px 33px -16px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .rice {
+    box-shadow: 0px 19px 33px -16px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .product {
+    border-radius: 25px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    width: 1244px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .rectangle-12 {
+    border-radius: 25px;
+    background: url('rectangle_122.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 189px;
+    height: 190px;
+  }
+  .agri-vista-farms-landing-page .rectangle-121 {
+    border-radius: 25px;
+    background: url('rectangle_12.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 189px;
+    height: 190px;
+  }
+  .agri-vista-farms-landing-page .rectangle-13 {
+    border-radius: 25px;
+    background: url('rectangle_13.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 189px;
+    height: 190px;
+  }
+  .agri-vista-farms-landing-page .product-1 {
+    border-radius: 25px;
+    margin: 0 91px 150px 105px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1244px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .sustainable-farming-meets-technology-building-agreener-future {
+    position: relative;
+    margin-bottom: 5px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.04;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .the-benefits-of-choosing-our-expertise {
+    margin-bottom: 99px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.14;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-sport-etc-litot-europa-usa-li-sam-vocabular {
+    position: absolute;
+    left: 0.9px;
+    bottom: 109.1px;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .learn-more {
+    margin-right: 13.5px;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .vector-10 {
+    margin: 3px 0 4.3px 0;
+    width: 18.6px;
+    height: 15.7px;
+  }
+  .agri-vista-farms-landing-page .learn-more-1 {
+    border-radius: 8px;
+    background: #204E51;
+    position: relative;
+    margin: 0 0.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    padding: 15px 0 15.1px 0;
+    width: 213.5px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .learn-more-2 {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .contact-us {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-sport-etc-litot-europa-usa-li-sam-vocabular-1 {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .madeline-williamson {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 0.75;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .group-29 {
+    border-radius: 8px;
+    background: #204E51;
+    position: relative;
+    margin-right: 40px;
+    display: flex;
+    padding: 14px 0 13px 1px;
+    width: 181px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-30 {
+    border-radius: 8px;
+    border: 1px solid #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 14px 0 13px 0;
+    width: 181px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .rectangle-10 {
+    border-radius: 20px;
+    background: url('10Rectangle\ 10.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 380px;
+    height: 470px;
+  }
+  .agri-vista-farms-landing-page .testimonials {
+    margin: 0 2px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.14;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .wheat {
+    margin: 0 1px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-1 {
+    margin-left: 8px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .pumpkin {
+    margin: 0 0 24px 6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-2 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .cabbage-1 {
+    margin: 0 0 24px 16px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-3 {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .wheat-1 {
+    box-shadow: 0px 19px 33px -16px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .pumpkin-1 {
+    box-shadow: 0px 19px 33px -16px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-sport-etc-litot-europa-usa-li-sam-vocabular-2 {
+    margin: 0 2px 80px 0;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .our-blog {
+    margin: 0 0 24px 20.7px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.14;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-sport-etc-litot-europa-usa-li-sam-vocabular-3 {
+    margin: 0 13.3px 80px 0;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: var(--paragraph, #767681);
+  }
+  .agri-vista-farms-landing-page .innovations-for-agreener-future {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.14;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .rectangle-11 {
+    border-radius: 20px;
+    background: url('rectangle_11.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 380px;
+    height: 470px;
+  }
+  .agri-vista-farms-landing-page .rectangle-123 {
+    border-radius: 20px;
+    background: url('rectangle_121.png') 50% / cover no-repeat;
+    margin: 0 11.3px 40px 0;
+    width: 380px;
+    height: 470px;
+  }
+  .agri-vista-farms-landing-page .the-power-of-agricultural-analytics {
+    margin: 0 16.3px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.14;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .cultivating-sustainable-and-resilient-farms {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.14;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica {
+    margin: 0 14.4px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-1 {
+    margin: 0 14.4px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-2 {
+    margin: 0 25.7px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .vector-11 {
+    width: 80px;
+    height: 80px;
+  }
+  .agri-vista-farms-landing-page .groups {
+    display: flex;
+    width: 85px;
+    height: 85px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-12 {
+    width: 85px;
+    height: 42.5px;
+  }
+  .agri-vista-farms-landing-page .star-rate {
+    display: flex;
+    width: 80px;
+    height: 80px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-13 {
+    width: 52.5px;
+    height: 52.9px;
+  }
+  .agri-vista-farms-landing-page .login {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .sign-up {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .the-role-of-technology-in-revolutionizing-agriculture {
+    position: relative;
+    margin-bottom: 24px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 1.04;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .image-2 {
+    background: rgba(30, 30, 30, 0.6);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .agri-vista-farms-landing-page .get-started {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .learn-more-3 {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-sport-etc-litot-europa-usa-li-sam-vocabular-4 {
+    position: relative;
+    margin: 0 0 56px 1px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .group-1 {
+    border-radius: 8px;
+    position: relative;
+    display: flex;
+    padding: 12px 0 13px 0px;
+    width: 176px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-2 {
+    border-radius: 8px;
+    border: 1px solid #FFFFFF;
+    position: relative;
+    display: flex;
+    padding: 13px 0 12px 0px;
+    width: 176px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .our-passion-for-agriculture-nurturing-growth-and-sustaining-the-future {
+    margin: 0 24.4px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.04;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-sport-etc-litot-europa-usa-li-sam-vocabular-5 {
+    margin-bottom: 40px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.875;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .group-3 {
+    border-radius: 8px;
+    background: #204E51;
+    position: relative;
+    display: flex;
+    align-self: flex-start;
+    padding: 16px 7.6px 15px 0;
+    width: 176px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .get-started-1 {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .hero {
+    margin-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .rectangle-82 {
+    box-shadow: 0px 46px 60px -33px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    background: #FFFFFF;
+    position: absolute;
+    right: 102px;
+    bottom: 0px;
+    height: 107px;
+    width: 346px;
+  }
+  .agri-vista-farms-landing-page .our-featured-product {
+    margin: 0 0 24px 59px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.04;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .rectangle-104 {
+    box-shadow: 20px 19px 66px 0px rgba(0, 0, 0, 0.08);
+    border-radius: 25px;
+    background: url(rectangle_102.png) 50% / cover no-repeat;
+    margin: 31px 0 53px 0;
+    width: 550px;
+    height: 544px;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-3 {
+    margin: 0 0 80px 58px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .see-all-product {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.04;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .check {
+    position: absolute;
+    left: 35.8px;
+    top: 50%;
+    translate: 0 -50%;
+    display: flex;
+    width: 80px;
+    height: 80px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-14 {
+    width: 55.9px;
+    height: 41.9px;
+  }
+  .agri-vista-farms-landing-page .our-blog-1 {
+    border-radius: 20px;
+    margin: 0 105.7px 150px 73px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .blog-1 {
+    border-radius: 20px;
+    margin-right: 60px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .blog-2 {
+    border-radius: 20px;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .blog-3 {
+    border-radius: 20px;
+    margin-right: 0px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .rectangle-106 {
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .agri-vista-farms-landing-page .call-to-action {
+    background: url('Rectangle\ 4.png') 50% / cover no-repeat;
+    position: relative;
+    margin-bottom: 150px;
+    display: flex;
+    flex-direction: column;
+    padding: 142px 0 132px 99px;
+    width: 1483px;
+    box-sizing: border-box;
+  }*/
+  .agri-vista-farms-landing-page .benefit {
+    margin: 0 85px 150px 84px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .testimonials-1 {
+    border-radius: 20px;
+    margin-right: 72px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1010px;
+    box-sizing: border-box;
+  }
+  
+  .agri-vista-farms-landing-page .container {
+    margin-bottom: 25px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 0.813;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .years-of-experience {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .ellipse-3 {
+    opacity: 0.3;
+    border-radius: 62.5px;
+    background: rgba(0, 0, 0, 0.4);
+    margin-right: 52px;
+    width: 125px;
+    height: 125px;
+  }
+  .agri-vista-farms-landing-page .rating {
+    opacity: 0.3;
+    border-radius: 62.5px;
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+    margin-right: 52px;
+    display: flex;
+    padding: 37.8px 0 34.2px 1px;
+    width: 125px;
+    height: 125px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .product-2 {
+    opacity: 0.3;
+    border-radius: 62.5px;
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+    margin-right: 52px;
+    display: flex;
+    padding: 23px 0 22px 1px;
+    width: 125px;
+    height: 125px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .local-team {
+    opacity: 0.3;
+    border-radius: 62.5px;
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+    margin-right: 52px;
+    display: flex;
+    padding: 41.3px 20px;
+    width: 125px;
+    height: 125px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-37 {
+    margin: 19px 0 15px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-38 {
+    margin: 19px 0 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-1 {
+    margin-bottom: 25px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 0.813;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .product-3 {
+    margin-right: 13.9px;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .container-2 {
+    margin-bottom: 25px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 0.813;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .satisfied-clients {
+    margin-right: 4.4px;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .group-40 {
+    margin: 19px 0 15px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-3 {
+    margin-bottom: 25px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 0.813;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .local-team-members {
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.35;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .rating-1 {
+    margin: 0 15.7px 40px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .product-4 {
+    margin: 0 119.5px 40px 0;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .satisfied {
+    position: relative;
+    margin: 0 50.6px 40px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .team {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .forward-creative-manager {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .star-rate-1 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-15 {
+    width: 26.3px;
+    height: 26.5px;
+  }
+  .agri-vista-farms-landing-page .star-rate-2 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .star-rate-3 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .star-rate-4 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .star-rate-5 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-45 {
+    margin: 0 6.9px 30.1px 6.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 16.7px;
+    width: 212px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-47 {
+    margin-top: 6.4px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-16 {
+    width: 24px;
+    height: 24px;
+  }
+  .agri-vista-farms-landing-page .vector-17 {
+    width: 24px;
+    height: 24px;
+  }
+  .agri-vista-farms-landing-page .read-more {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.2;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .read-more-1 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.2;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .read-more-2 {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    line-height: 1.2;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .agri-vista-farms {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .pages-1 {
+    margin: 0 0 24px 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .about {
+    margin-bottom: 24px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 28px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .home-1 {
+    margin: 0 16.4px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .about-1 {
+    margin: 0 16.7px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .product-5 {
+    margin-bottom: 24px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .blog {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .group-42 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-1 {
+    margin: 19px 0 15px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-2 {
+    border-radius: 20px;
+    background: #204E51;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 670px;
+    margin: auto;
+  }
+  .agri-vista-farms-landing-page .container-3 {
+    border-radius: 8px;
+    background: #204E51;
+    position: relative;
+    margin-right: 40px;
+    display: flex;
+    padding: 12px 0 13px 1px;
+    width: 138px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .testimonials-2 {
+    margin: 0 0 24px 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .our-service {
+    margin: 0 7.6px 24px 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .contact-us-1 {
+    margin: 0 12.6px 24px 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .benefit-1 {
+    margin: 0 1px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie {
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #FFFFFF;
+  }
+  .agri-vista-farms-landing-page .group-48 {
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-49 {
+    margin-right: 17.5px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-83 {
+    border-radius: 5px;
+    background: #FEF5F5;
+    position: relative;
+    display: flex;
+    padding: 6.7px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-18 {
+    width: 26.7px;
+    height: 26.7px;
+  }
+  .agri-vista-farms-landing-page .group-84 {
+    border-radius: 5px;
+    background: #FEF5F5;
+    position: relative;
+    display: flex;
+    padding: 6.7px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-19 {
+    width: 26.7px;
+    height: 26.7px;
+  }
+  .agri-vista-farms-landing-page .group-85 {
+    border-radius: 5px;
+    background: #FEF5F5;
+    position: relative;
+    display: flex;
+    padding: 6.7px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-20 {
+    width: 26.7px;
+    height: 26.7px;
+  }
+  .agri-vista-farms-landing-page .group-86 {
+    border-radius: 5px;
+    background: #FEF5F5;
+    position: relative;
+    display: flex;
+    padding: 12px 6.7px 10.7px 6.7px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-21 {
+    width: 26.7px;
+    height: 17.3px;
+  }
+  .agri-vista-farms-landing-page .about-2 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .icon-1 {
+    margin: 0 1px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    column-gap: 20px;
+    width: 220px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .pages-2 {
+    margin-right: 153.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .contact-us-2 {
+    background: #204E51;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 170px 0 182px 103px;
+    width: 1476px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .rectangle-31 {
+    border-radius: 20px;
+    background: url('Rectangle\ 31.png') 50% / cover no-repeat;
+    margin-right: 40px;
+    width: 231px;
+    height: 231px;
+  }
+  .agri-vista-farms-landing-page .group-143 {
+    opacity: 0.5;
+    box-shadow: 0px 27px 24px -12px rgba(0, 0, 0, 0.15);
+    border-radius: 50px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 418px 0 183px 0;
+    display: flex;
+    padding: 23px 0;
+    width: 70px;
+    height: 70px;
+    box-sizing: border-box;
+    align-items: center;
+    left: 50px;
+  }
+  .agri-vista-farms-landing-page .group-2 {
+    margin-bottom: 28px;
+    width: 80px;
+    height: 80px;
+  }
+  .agri-vista-farms-landing-page .icon-2 {
+    margin-bottom: 28px;
+    width: 80px;
+    height: 80px;
+  }
+  .agri-vista-farms-landing-page .option-1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .option-2 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 281px;
+  }
+  .agri-vista-farms-landing-page .our-service-1 {
+    margin: 0 105px 150px 91px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1244px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .group-145 {
+    box-shadow: 0px 27px 24px -12px rgba(0, 0, 0, 0.15);
+    border-radius: 50px;
+    background: #FFFFFF;
+    position: relative;
+    margin: 418px 48px 183px 0;
+    display: flex;
+    padding: 23px 0;
+    width: 70px;
+    height: 70px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .testimonials-3 {
+    margin: 0 85px 150px 85px;
+    display: flex;
+    flex-direction: row;
+    width: 1270px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .our-service-2 {
+    margin: 0 0 24px 23px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 1.04;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .li-europan-lingues-es-membres-del-sam-familie-lor-separat-existentie-es-un-myth-por-scientie-musica-4 {
+    margin: 0 0 80px 23px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1;
+    color: #1E1E1E;
+  }
+  .agri-vista-farms-landing-page .blog-and-article-writing {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.25;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .website-content {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.25;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .content-strategy-and-consulting {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.25;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .social-media-management {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.25;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .since-1976 {
+    position: absolute;
+    right: 177.8px;
+    bottom: 35px;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.04;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .rectangle-108 {
+    border-radius: 25px;
+    background: url('Rectangle\ 10.png') 50% / cover no-repeat;
+    margin-bottom: 40px;
+    width: 189px;
+    height: 190px;
+  }
+  .agri-vista-farms-landing-page .container-4 {
+    position: relative;
+    margin-left: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 403px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .rice-1 {
+    margin: 0 9px 24px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1;
+    color: #204E51;
+  }
+  .agri-vista-farms-landing-page .container-5 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-6 {
+    background: url('landingphoto1.png') 50% / cover no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 173px 0 162px 0;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .our-story {
+    position: relative;
+    margin: 0 85px 150px 85px;
+    display: flex;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-7 {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 48px 85px 46px 85px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-8 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-9 {
+    border-radius: 20px;
+    background: #204E51;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 104px 0 102px 0;
+    width: 1010px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-10 {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-11 {
+    border-radius: 8px;
+    border: 1px solid #204E51;
+    position: relative;
+    display: flex;
+    padding: 12px 0 13px 0;
+    width: 138px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-12 {
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-13 {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-14 {
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    width: 1244px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-15 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 521;
+    height: 480.1;
+  }
+  .agri-vista-farms-landing-page .container-16 {
+    position: relative;
+    margin: 0 6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 402px;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .container-17 {
+    margin-right: 117px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .agri-vista-farms-landing-page .vector-33 {
+    width: 26.3px;
+    height: 26.5px;
+  }
+  .agri-vista-farms-landing-page .vector-34 {
+    width: 26.3px;
+    height: 26.5px;
+  }
+  .agri-vista-farms-landing-page .vector-35 {
+    width: 26.3px;
+    height: 26.5px;
+  }
+  .agri-vista-farms-landing-page .vector-36 {
+    width: 26.3px;
+    height: 26.5px;
+  }
+  .agri-vista-farms-landing-page .container-18 {
+    position: relative;
+    margin: 152px 125px 151.9px 0;
+    display: flex;
+    box-sizing: border-box;
+  }
