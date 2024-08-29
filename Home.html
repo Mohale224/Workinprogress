@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agrivista Farms Landing Page</title>
+    <style>
+        .paragraph{
+            font-size: 30px;
+            font-weight: 600;
+
+        }
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+            padding: 10px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000; 
+        }
+        .navbar ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+        .navbar li {
+            margin: 0 15px; /* Space between menu items */
+        }
+        .navbar a {
+            text-decoration: none; /* Remove underline */
+            color: white; /* Text color */
+            font-size: 1.2em; /* Font size for links */
+            padding: 10px 20px; /* Padding around text */
+            display: block; /* Make link occupy the entire area */
+        }
+        
+        body{
+            background-color: aliceblue;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        h1, h2{
+            text-align: center;
+        }
+        .background-container{
+            background-image: url('landingphoto1.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            color: white;
+            padding: 50px;
+            text-align: center;
+            margin: 20px;
+            border-radius: 8px;
+            position: relative;
+            overflow:hidden; 
+
+        }
+
+        p{
+            margin: 20px;/* Remove default margin for paragraphs */
+            font-size: 1.5em;/* Adjust font size as needed */
+            line-height: 1.4;/* Adjust line height for readability */
+
+        }
+
+        .button {
+            background-color: #406996; /* Blue background color */
+            color: white; /* White text color */
+            border: 2px solid white; /* Remove border */
+            padding: 15px 30px; /* Padding for the button */
+            font-size: 1.2em; /* Font size for the button text */
+            border-radius: 5px; /* Rounded corners for the button */
+            cursor: pointer; /* Pointer cursor on hover */
+            text-decoration: none; /* Remove underline from text */
+            display: inline-block; /* Align button inline */
+            margin-top: 20px; /* Space between button and text */
+            text-align: center; /* Center-align text */
+            position: absolute; /* Position the button absolutely */
+            bottom: 20px; /* Distance from the bottom */
+            left: 40%; /* Center horizontally */
+            transform: translateX(-50%); /* Center horizontally */
+        }
+        .button:hover {
+            background-color: #6ea3db; /* Darker blue on hover */
+        }
+        .button1 {
+            
+            color: white; /* White text color */
+            border: 2px solid white; /* Remove border */
+            padding: 15px 30px; /* Padding for the button */
+            font-size: 1.2em; /* Font size for the button text */
+            border-radius: 5px; /* Rounded corners for the button */
+            cursor: pointer; /* Pointer cursor on hover */
+            text-decoration: none; /* Remove underline from text */
+            display: inline-block; /* Align button inline */
+            margin-top: 20px; /* Space between button and text */
+            text-align: center; /* Center-align text */
+            position: absolute; /* Position the button absolutely */
+            bottom: 20px; /* Distance from the bottom */
+            left: 60%; /* Center horizontally */
+            transform: translateX(-50%); /* Center horizontally */
+        }
+        .button1:hover {
+            background-color: #819dbb; /* Darker blue on hover */
+        }
+    </style>
+</head>
+<body style=" background-color: aliceblue;">
+    <h1>Agrivista Farms</h1>
+
+    <!--Navigation Bar-->
+    <div class="navbar">
+      <ul>
+         <li><a href="Home.html">Home</a></li>
+         <li><a href="#About">About Us</a></li>
+         <li><a href="#pages">Pages</a></li>
+      </ul>
+    </div>
+    <div class="background-container"> 
+    <p class="background-text"><span class="paragraph">The Role of Technology in Revolutionizing Agriculture<br></span>Li Europan lingues es membres del sam familie.<br> Lor separat existentie es un myth.<br> Por scientie, musica, sport etc,<br> litot Europa usa li sam vocabular.</p>
+    <a href="#home" class=" button">Get Started</a>
+    <a href="#learn" class=" button1">Learn More</a> <!-- Button as a link -->
+    </div>
+</body>
+</html>

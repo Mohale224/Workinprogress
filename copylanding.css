@@ -1,0 +1,144 @@
+body{
+    background-image: url(image_1.png);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #fff;
+    padding: 10px 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin: 0 15px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #000;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.login-btn, .signup-btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signup-btn {
+    background-color: #007b5e;
+    color: #fff;
+}
+
+.hero {
+    background-image: url('https://via.placeholder.com/1200x500');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.hero-buttons .cta-btn {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #007b5e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.about {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 20px;
+    background-color: #f4f4f4;
+}
+
+.about-content {
+    max-width: 500px;
+}
+
+.about-image {
+    position: relative;
+}
+
+.about-image img {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.since-1976 {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #007b5e;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.services {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.service-items {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.service-item {
+    flex: 1;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #007b5e;
+    color: #fff;
+}
