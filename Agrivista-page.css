@@ -1,0 +1,1396 @@
+/****************************Landing Page********************************/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #fff;
+    padding: 20px 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.logo h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #000;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.auth-buttons button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.login-btn {
+    background-color: #00473e;
+    color: #fff;
+}
+
+.signup-btn {
+    background-color: #fff;
+    color: #00473e;
+    border: 2px solid #00473e;
+}
+
+.hero {
+    background-image: url('landingphoto1.png'); /* Background image should be replaced with the actual image */
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.hero h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.hero-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.hero-buttons button {
+    padding: 15px 30px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.get-started-btn {
+    background-color: #00473e;
+    color: #fff;
+}
+
+.learn-more-btn {
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+}
+/****************************Landing Page********************************/
+
+/****************************Landing Page 2********************************/
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+.container2 {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 0;
+}
+
+.passion-section {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 50px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.content {
+    max-width: 50%;
+}
+
+.content h2 {
+    font-size: 36px;
+    color: #00473e;
+    margin-bottom: 20px;
+}
+
+.content p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.get-started-btn {
+    padding: 15px 30px;
+    background-color: #00473e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.image-box {
+    position: relative;
+    max-width: 45%;
+}
+
+.image-box img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.since-badge {
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    font-weight: bold;
+    color: #00473e;
+}
+
+
+/****************************Landing Page 2********************************/
+
+/****************************Landing Page 3********************************/
+.container-3 {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.services-section h2 {
+    font-size: 36px;
+    color: #00473e;
+    margin-bottom: 10px;
+}
+
+.services-section p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 40px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.service-card {
+    background-color: #fff;
+    padding: 30px 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    text-align: center;
+    flex: 1;
+}
+
+.service-card img {
+    max-width: 50px;
+    margin-bottom: 20px;
+}
+
+.service-card h3 {
+    font-size: 18px;
+    color: #00473e;
+    margin: 0;
+}
+
+/****************************Landing Page 3********************************/
+
+/****************************Landing Page 4********************************/
+.featured-products {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
+    margin: 20px;
+    position: relative;
+    left: 300px;
+  }
+  
+  .featured-products h1 {
+    color: #2C3E50;
+    margin-bottom: 10px;
+  }
+  
+  .featured-products p {
+    color: #7F8C8D;
+    margin-bottom: 30px;
+  }
+  
+  .product-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+  }
+  
+  .product-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: 150px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .product-card h2 {
+    color: #2C3E50;
+    margin-bottom: 10px;
+  }
+  
+  .product-card p {
+    color: #7F8C8D;
+  }
+  
+  .see-all-products {
+    display: inline-block;
+    margin-top: 20px;
+    color: #2C3E50;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .see-all-products:hover {
+    text-decoration: underline;
+  }
+
+
+/****************************Landing Page 4********************************/
+
+/****************************Landing Page 5********************************/
+.hero-section {
+    width: 100%;
+    height: 100vh;
+    background-image: url('Rectangle\ 4.png'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .hero-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark overlay */
+  }
+  
+  .hero-content {
+    color: white;
+    text-align: center;
+    z-index: 1; /* Ensure content appears above the overlay */
+  }
+  
+  .hero-content h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    line-height: 1.2;
+  }
+  
+  .hero-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+  }
+  
+  .btn {
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary {
+    background-color: #1abc9c;
+    color: white;
+  }
+  
+  .btn-primary:hover {
+    background-color: #16a085;
+  }
+  
+  .btn-secondary {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+  }
+  
+  .btn-secondary:hover {
+    background-color: white;
+    color: #2c3e50;
+  }
+
+/****************************Landing Page 5********************************/
+
+/****************************Landing Page 6********************************/
+.benefits-section {
+    background-color: #fff;
+    display: flex;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    max-width: 1200px;
+    width: 100%;
+    left: 300px;
+    position: relative;
+  }
+  
+  .benefits-content {
+    flex: 1;
+    margin-right: 50px;
+  }
+  
+  .benefits-content h1 {
+    font-size: 2.5rem;
+    color: #2C3E50;
+    margin-bottom: 20px;
+  }
+  
+  .benefits-content p {
+    color: #7F8C8D;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #2C3E50;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #1abc9c;
+  }
+  
+  .benefits-stats {
+    background-color: #2C3E50;
+    padding: 30px;
+    border-radius: 12px;
+    color: white;
+    flex: 1;
+  }
+  
+  .stat-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+  }
+  
+  .stat-item:last-child {
+    margin-bottom: 0;
+  }
+  
+  .icon {
+    font-size: 2rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 50%;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .stat-info h2 {
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+  }
+  
+  .stat-info p {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+
+/****************************Landing Page 6********************************/
+
+/****************************Landing Page 7********************************/
+.testimonials-section {
+    text-align: center;
+}
+
+.testimonials-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #2e6448;
+}
+
+.description {
+    color: #7c7c7c;
+    margin-bottom: 20px;
+}
+
+.testimonial-card {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-btn {
+    background: none;
+    border: none;
+    font-size: 2em;
+    color: #2e6448;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.testimonial-content {
+    background-color: #2e6448;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    width: 500px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-content img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.testimonial-text {
+    text-align: left;
+}
+
+.rating {
+    font-size: 1.2em;
+    color: #ffcc00;
+    margin-bottom: 5px;
+}
+
+.testimonial-text h3 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.position {
+    font-size: 0.9em;
+    color: #9fb9aa;
+    margin-bottom: 10px;
+}
+
+.testimonial {
+    font-size: 0.95em;
+    color: #d4e6dd;
+}
+
+
+/****************************Landing Page 7********************************/
+
+/****************************Landing Page 8********************************/
+.blog-section {
+    text-align: center;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.blog-section h2 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #2e6448;
+}
+
+.description {
+    color: #7c7c7c;
+    margin-bottom: 40px;
+}
+
+.blog-cards {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.blog-card {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    flex: 1;
+    max-width: 300px;
+}
+
+.blog-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+}
+
+.blog-card h3 {
+    margin: 15px;
+    font-size: 1.3em;
+    color: #2e6448;
+}
+
+.blog-card p {
+    margin: 0 15px 15px;
+    color: #7c7c7c;
+    font-size: 0.95em;
+}
+
+.blog-card a {
+    display: block;
+    margin: 0 15px 15px;
+    color: #2e6448;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.blog-card a:hover {
+    text-decoration: underline;
+}
+
+
+/****************************Landing Page 8********************************/
+
+/****************************Landing Page 9********************************/
+.footer {
+    background-color: #2e6448;
+    color: white;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    width: 90%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-section {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.footer-section h3, .footer-section h4 {
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+
+.footer-section p {
+    margin-bottom: 20px;
+    font-size: 0.9em;
+    color: #d4e6dd;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: #d4e6dd;
+    font-size: 0.95em;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a img {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+/****************************Landing Page 9********************************/
+
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .container {
+        padding: 0 15px; /* Add some padding for smaller screens */
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .nav ul li a {
+        font-size: 16px;
+    }
+
+    .auth-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero {
+        padding: 50px 0; /* Reduce padding on smaller screens */
+    }
+
+    .hero h2 {
+        font-size: 32px; /* Adjust font size */
+    }
+
+    .hero p {
+        font-size: 16px; /* Adjust font size */
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .hero-buttons button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .navbar {
+        flex-direction: row;
+    }
+
+    .nav ul {
+        flex-direction: row;
+        gap: 15px;
+    }
+
+    .auth-buttons {
+        gap: 15px;
+    }
+
+    .hero {
+        padding: 80px 0; /* Adjust padding for tablets */
+    }
+
+    .hero h2 {
+        font-size: 40px; /* Adjust font size */
+    }
+
+    .hero p {
+        font-size: 17px; /* Adjust font size */
+    }
+
+    .hero-buttons button {
+        padding: 12px 25px;
+        font-size: 15px;
+    }
+}
+
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .container2 {
+        width: 90%;
+        padding: 50px 0; /* Adjust padding for smaller screens */
+        flex-direction: column;
+    }
+
+    .passion-section {
+        flex-direction: column;
+        padding: 30px;
+        box-shadow: none; /* Optional: remove shadow on mobile for a cleaner look */
+    }
+
+    .content {
+        max-width: 100%;
+        text-align: center;
+        margin-bottom: 20px; /* Add some space between content and image */
+    }
+
+    .content h2 {
+        font-size: 28px; /* Adjust font size for smaller screens */
+    }
+
+    .content p {
+        font-size: 14px; /* Adjust font size */
+    }
+
+    .image-box {
+        max-width: 100%;
+    }
+
+    .since-badge {
+        bottom: -10px; /* Adjust position for smaller screens */
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 8px 16px; /* Adjust padding */
+        font-size: 14px; /* Adjust font size */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .container2 {
+        width: 85%;
+        padding: 80px 0; /* Adjust padding for tablets */
+    }
+
+    .passion-section {
+        flex-direction: row;
+        padding: 40px;
+    }
+
+    .content {
+        max-width: 60%;
+    }
+
+    .content h2 {
+        font-size: 32px; /* Adjust font size */
+    }
+
+    .content p {
+        font-size: 15px; /* Adjust font size */
+    }
+
+    .image-box {
+        max-width: 50%;
+    }
+
+    .since-badge {
+        bottom: -12px; /* Adjust position for tablets */
+        padding: 10px 18px; /* Adjust padding */
+        font-size: 15px; /* Adjust font size */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .container-3 {
+        width: 90%;
+        padding: 30px 0; /* Adjust padding for smaller screens */
+    }
+
+    .services-section h2 {
+        font-size: 28px; /* Adjust font size for headings */
+    }
+
+    .services-section p {
+        font-size: 14px; /* Adjust font size for paragraphs */
+        margin-bottom: 30px; /* Reduce bottom margin */
+    }
+
+    .services {
+        flex-direction: column; /* Stack service cards vertically */
+        gap: 20px;
+    }
+
+    .service-card {
+        padding: 20px 15px; /* Adjust padding */
+        box-shadow: none; /* Optional: remove shadow on mobile for a cleaner look */
+    }
+
+    .service-card img {
+        max-width: 40px; /* Adjust image size */
+    }
+
+    .service-card h3 {
+        font-size: 16px; /* Adjust font size for service card headings */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .container-3 {
+        width: 85%;
+        padding: 40px 0; /* Adjust padding for tablets */
+    }
+
+    .services-section h2 {
+        font-size: 32px; /* Adjust font size for headings */
+    }
+
+    .services-section p {
+        font-size: 15px; /* Adjust font size for paragraphs */
+        margin-bottom: 35px; /* Adjust bottom margin */
+    }
+
+    .services {
+        flex-direction: row; /* Keep cards in a row but with adjusted spacing */
+        gap: 15px;
+    }
+
+    .service-card {
+        padding: 25px 15px; /* Adjust padding */
+    }
+
+    .service-card img {
+        max-width: 45px; /* Adjust image size */
+    }
+
+    .service-card h3 {
+        font-size: 17px; /* Adjust font size for service card headings */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .featured-products {
+        padding: 20px;
+        margin: 10px;
+        position: static; /* Remove the left positioning */
+        box-shadow: none; /* Optional: remove shadow on mobile for a cleaner look */
+    }
+
+    .featured-products h1 {
+        font-size: 24px; /* Adjust font size for headings */
+    }
+
+    .featured-products p {
+        font-size: 14px; /* Adjust font size for paragraphs */
+    }
+
+    .product-container {
+        flex-direction: column; /* Stack product cards vertically */
+        align-items: center;
+    }
+
+    .product-card {
+        width: 100%; /* Make product cards full width */
+        max-width: 300px; /* Set a max-width for larger screens */
+        margin: 10px 0; /* Adjust margin for vertical stacking */
+    }
+
+    .product-card img {
+        height: auto; /* Adjust height for responsive images */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .featured-products {
+        padding: 30px;
+        margin: 15px;
+    }
+
+    .featured-products h1 {
+        font-size: 28px; /* Adjust font size for headings */
+    }
+
+    .featured-products p {
+        font-size: 15px; /* Adjust font size for paragraphs */
+    }
+
+    .product-container {
+        flex-wrap: wrap; /* Allow wrapping of product cards */
+        gap: 20px; /* Adjust gap between cards */
+    }
+
+    .product-card {
+        width: 45%; /* Adjust width for a two-column layout */
+        max-width: none; /* Remove max-width constraint */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .hero-section {
+        height: 60vh; /* Reduce height for mobile screens */
+        background-image: url('Rectangle\ 4.png'); /* Ensure the image URL is correctly formatted */
+        background-size: cover;
+        background-position: center;
+    }
+
+    .hero-content h1 {
+        font-size: 1.5rem; /* Adjust font size for smaller screens */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .hero-buttons {
+        flex-direction: column; /* Stack buttons vertically */
+        gap: 10px;
+    }
+
+    .btn {
+        padding: 10px 20px; /* Adjust button padding */
+        font-size: 14px; /* Adjust font size */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .hero-section {
+        height: 80vh; /* Adjust height for tablet screens */
+    }
+
+    .hero-content h1 {
+        font-size: 2rem; /* Adjust font size */
+        margin-bottom: 20px; /* Adjust margin */
+    }
+
+    .hero-buttons {
+        gap: 15px; /* Maintain gap for buttons */
+    }
+
+    .btn {
+        padding: 12px 25px; /* Adjust button padding */
+        font-size: 16px; /* Adjust font size */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .benefits-section {
+        padding: 20px; /* Reduce padding for smaller screens */
+        box-shadow: none; /* Optional: remove shadow for a cleaner look */
+        margin: 0; /* Remove left positioning */
+        left: 0; /* Remove left positioning */
+        position: static; /* Adjust positioning for mobile */
+        flex-direction: column; /* Stack content vertically */
+    }
+
+    .benefits-content {
+        margin-right: 0; /* Remove margin on mobile */
+        margin-bottom: 20px; /* Add margin to space out content from stats */
+    }
+
+    .benefits-content h1 {
+        font-size: 1.8rem; /* Adjust font size for headings */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .benefits-content p {
+        font-size: 14px; /* Adjust font size for paragraphs */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .btn {
+        padding: 10px 20px; /* Adjust padding for buttons */
+        font-size: 14px; /* Adjust font size */
+    }
+
+    .benefits-stats {
+        padding: 20px; /* Adjust padding for stats */
+        margin-top: 20px; /* Add margin to space out from content */
+    }
+
+    .stat-item {
+        flex-direction: column; /* Stack icon and text vertically */
+        align-items: flex-start; /* Align items to the start */
+        margin-bottom: 20px; /* Adjust margin */
+    }
+
+    .icon {
+        font-size: 1.5rem; /* Adjust icon size */
+        padding: 15px; /* Adjust padding */
+        margin-right: 0; /* Remove margin on mobile */
+        margin-bottom: 10px; /* Add margin below icon */
+    }
+
+    .stat-info h2 {
+        font-size: 1.4rem; /* Adjust font size for subheadings */
+        margin-bottom: 5px; /* Adjust margin */
+    }
+
+    .stat-info p {
+        font-size: 0.9rem; /* Adjust font size for paragraphs */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .benefits-section {
+        padding: 30px; /* Adjust padding for tablets */
+        flex-direction: row; /* Maintain horizontal layout */
+        gap: 20px; /* Add gap between columns */
+    }
+
+    .benefits-content {
+        margin-right: 30px; /* Adjust margin for tablets */
+    }
+
+    .benefits-content h1 {
+        font-size: 2rem; /* Adjust font size */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .benefits-content p {
+        font-size: 15px; /* Adjust font size */
+    }
+
+    .btn {
+        padding: 10px 20px; /* Adjust padding for buttons */
+        font-size: 15px; /* Adjust font size */
+    }
+
+    .benefits-stats {
+        padding: 25px; /* Adjust padding for stats */
+    }
+
+    .stat-item {
+        flex-direction: row; /* Maintain horizontal layout for items */
+        align-items: center; /* Center items vertically */
+    }
+
+    .icon {
+        font-size: 1.8rem; /* Adjust icon size */
+        padding: 18px; /* Adjust padding */
+        margin-right: 15px; /* Adjust margin */
+    }
+
+    .stat-info h2 {
+        font-size: 1.6rem; /* Adjust font size */
+    }
+
+    .stat-info p {
+        font-size: 1rem; /* Adjust font size */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .testimonials-section h2 {
+        font-size: 1.8em; /* Adjust font size for smaller screens */
+        margin-bottom: 10px; /* Adjust margin */
+    }
+
+    .description {
+        font-size: 14px; /* Adjust font size for paragraphs */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .testimonial-card {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items */
+    }
+
+    .testimonial-content {
+        width: 100%; /* Full width for mobile */
+        padding: 15px; /* Adjust padding */
+        flex-direction: column; /* Stack items vertically */
+        box-shadow: none; /* Optional: remove shadow for a cleaner look */
+    }
+
+    .testimonial-content img {
+        width: 80px; /* Adjust image size */
+        height: 80px; /* Adjust image size */
+        margin-right: 0; /* Remove margin */
+        margin-bottom: 10px; /* Add margin below image */
+    }
+
+    .testimonial-text {
+        text-align: center; /* Center text */
+    }
+
+    .rating {
+        font-size: 1em; /* Adjust font size */
+        margin-bottom: 5px; /* Adjust margin */
+    }
+
+    .testimonial-text h3 {
+        font-size: 1.2em; /* Adjust font size */
+        margin-bottom: 5px; /* Adjust margin */
+    }
+
+    .position {
+        font-size: 0.8em; /* Adjust font size */
+        margin-bottom: 5px; /* Adjust margin */
+    }
+
+    .testimonial {
+        font-size: 0.9em; /* Adjust font size */
+    }
+
+    .nav-btn {
+        font-size: 1.5em; /* Adjust font size */
+        padding: 8px; /* Adjust padding */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .testimonials-section h2 {
+        font-size: 2em; /* Adjust font size for tablets */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .description {
+        font-size: 15px; /* Adjust font size */
+        margin-bottom: 20px; /* Adjust margin */
+    }
+
+    .testimonial-card {
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center items */
+    }
+
+    .testimonial-content {
+        width: 90%; /* Adjust width for tablets */
+        padding: 20px; /* Adjust padding */
+    }
+
+    .testimonial-content img {
+        width: 90px; /* Adjust image size */
+        height: 90px; /* Adjust image size */
+    }
+
+    .testimonial-text {
+        text-align: center; /* Center text */
+    }
+
+    .rating {
+        font-size: 1.1em; /* Adjust font size */
+    }
+
+    .testimonial-text h3 {
+        font-size: 1.4em; /* Adjust font size */
+    }
+
+    .position {
+        font-size: 0.85em; /* Adjust font size */
+    }
+
+    .testimonial {
+        font-size: 0.9em; /* Adjust font size */
+    }
+
+    .nav-btn {
+        font-size: 1.8em; /* Adjust font size */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .blog-section h2 {
+        font-size: 1.8em; /* Adjust font size for headings */
+        margin-bottom: 10px; /* Adjust margin */
+    }
+
+    .description {
+        font-size: 14px; /* Adjust font size for descriptions */
+        margin-bottom: 20px; /* Adjust margin */
+    }
+
+    .blog-cards {
+        flex-direction: column; /* Stack blog cards vertically */
+        align-items: center; /* Center align blog cards */
+        gap: 20px; /* Adjust gap between blog cards */
+    }
+
+    .blog-card {
+        max-width: 100%; /* Full width for mobile devices */
+        box-shadow: none; /* Optional: remove shadow for a cleaner look */
+    }
+
+    .blog-card img {
+        height: 150px; /* Adjust image height */
+    }
+
+    .blog-card h3 {
+        font-size: 1.2em; /* Adjust font size for blog titles */
+        margin: 10px; /* Adjust margin */
+    }
+
+    .blog-card p {
+        font-size: 0.9em; /* Adjust font size for blog content */
+        margin: 0 10px 10px; /* Adjust margin */
+    }
+
+    .blog-card a {
+        font-size: 0.9em; /* Adjust font size for links */
+        margin: 0 10px 10px; /* Adjust margin */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .blog-section h2 {
+        font-size: 2em; /* Adjust font size for tablet screens */
+        margin-bottom: 20px; /* Adjust margin */
+    }
+
+    .description {
+        font-size: 15px; /* Adjust font size */
+        margin-bottom: 30px; /* Adjust margin */
+    }
+
+    .blog-cards {
+        flex-direction: row; /* Maintain row layout for tablets */
+        flex-wrap: wrap; /* Wrap blog cards to next line */
+        gap: 20px; /* Maintain gap */
+    }
+
+    .blog-card {
+        max-width: 45%; /* Adjust width for tablets */
+    }
+
+    .blog-card img {
+        height: 180px; /* Adjust image height */
+    }
+
+    .blog-card h3 {
+        font-size: 1.3em; /* Maintain font size for blog titles */
+    }
+
+    .blog-card p {
+        font-size: 0.95em; /* Maintain font size */
+    }
+
+    .blog-card a {
+        font-size: 1em; /* Adjust font size for links */
+    }
+}
+/****************************Mobile responsive********************************/
+@media (max-width: 767px) {
+    .footer {
+        padding: 20px 10px; /* Adjust padding for mobile */
+        flex-direction: column; /* Stack footer content vertically */
+        text-align: center; /* Center align text */
+    }
+
+    .footer-content {
+        flex-direction: column; /* Stack sections vertically */
+        align-items: center; /* Center align items */
+        width: 100%; /* Full width for mobile */
+    }
+
+    .footer-section {
+        margin-right: 0; /* Remove margin on right */
+        margin-bottom: 20px; /* Add margin at the bottom */
+    }
+
+    .footer-section h3, .footer-section h4 {
+        font-size: 1.1em; /* Adjust font size */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .footer-section p {
+        font-size: 0.85em; /* Adjust font size */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .footer-section ul li {
+        margin-bottom: 8px; /* Adjust margin */
+    }
+
+    .footer-section ul li a {
+        font-size: 0.9em; /* Adjust font size */
+    }
+
+    .social-icons {
+        flex-direction: column; /* Stack icons vertically */
+        gap: 8px; /* Adjust gap between icons */
+        margin-top: 20px; /* Add top margin */
+    }
+
+    .social-icons a img {
+        width: 25px; /* Adjust icon size */
+        height: 25px; /* Adjust icon size */
+    }
+}
+
+/* Tablet Styles */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .footer {
+        padding: 30px 20px; /* Adjust padding for tablets */
+    }
+
+    .footer-content {
+        flex-direction: row; /* Keep sections in a row layout */
+        flex-wrap: wrap; /* Allow wrapping of sections */
+        gap: 20px; /* Adjust gap between sections */
+    }
+
+    .footer-section {
+        margin-right: 20px; /* Keep margin for larger screens */
+        flex: 1; /* Allow sections to grow and fill space */
+    }
+
+    .footer-section h3, .footer-section h4 {
+        font-size: 1.2em; /* Maintain font size */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .footer-section p {
+        font-size: 0.9em; /* Maintain font size */
+        margin-bottom: 15px; /* Adjust margin */
+    }
+
+    .footer-section ul li {
+        margin-bottom: 10px; /* Maintain margin */
+    }
+
+    .footer-section ul li a {
+        font-size: 0.95em; /* Maintain font size */
+    }
+
+    .social-icons {
+        gap: 10px; /* Maintain gap between icons */
+    }
+
+    .social-icons a img {
+        width: 30px; /* Maintain icon size */
+        height: 30px; /* Maintain icon size */
+    }
+}
